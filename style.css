@@ -1,0 +1,138 @@
+.Navigation {
+    font-size: 20px;
+    float: left;
+    color: black;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: white;
+    text-decoration: none;
+    margin-top: 1px;
+  
+  }
+  .fa fa-search {
+    float: left;
+    color: black;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0px 0px;
+    overflow: hidden;
+    background-color: aliceblue;
+    margin-top: -12px;
+    text-decoration: none;
+    margin-left: 1000px;
+  }
+  .SearchBar {
+    display: flex;
+    height: 40px;
+    width: 30vw;
+    margin-top: 8px;
+    background-color: aliceblue;
+    align-items: center;
+  }
+  .input1{
+    outline: 0 none;
+    font-size: 17px;
+    border: 0;
+    background-color: transparent;
+    width: 90%;
+  }
+  .Login {
+    font-size: 25px;
+    float: left;
+    color: black;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0px 15px;
+    overflow: hidden;
+    background-color: white;
+    margin-top: -12px;
+    text-decoration: none;
+    margin-left: 30px;
+    margin-right: 0px;
+  }
+  .Cart {
+    font-size: 25px;
+    float: left;
+    color: black;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0px 15px;
+    overflow: hidden;
+    background-color: white;
+    margin-top: -10px;
+    text-decoration: none;
+    margin-left: 20px;
+    margin-right: 0px;
+  }
+  .Seller {
+    font-size: 25px;
+    float: left;
+    color: black;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 1px 15px;
+    overflow: hidden;
+    background-color: white;
+    margin-top: -12px;
+    text-decoration: none;
+    margin-left: 30px;
+    margin-right: 0px;
+  }
+  .Dots {
+    font-size: 25px;
+    float: left;
+    color: black;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 1px 15px;
+    overflow: hidden;
+    background-color: white;
+    margin-top: -12px;
+    text-decoration: none;
+    margin-left: 30px;
+    margin-right: 0px;
+  }
+  .t1{
+    font-size: large;
+    text-align: center;
+    margin-top: 40px;
+  }
+  .Mobile{
+    font-size: 25px;
+    margin-top: 10vh;
+  }
+  .A1{
+    font-size: 20px;
+    text-align: center;
+    justify-content: space-evenly;
+    border: 1px solid black;
+  }
+  /*IN CART */
+.SearchBar{
+  font-size: 20px;
+  align-items:center;
+  float: left;
+  color: black;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 0px 14px;
+  overflow: hidden;
+  background-color: white;
+  text-decoration: none;
+  margin-left: 30px;
+  margin-top: -5px;
+  
+}
+.login-btn{
+  background-color: #fb641b;
+  border: none;
+  color: #fff;
+  font-size: 14px;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, .2);
+    margin-top: 20px;
+    font-weight: 400;
+    padding: 12px 72px;
+}
+
+
+
